@@ -119,14 +119,6 @@ Essas tabelas se relacionam por meio de chaves primárias e estrangeiras, simula
 
 ---
 
-## 🚀 Próximos Passos
-
-- Criar visualizações com **Power BI ou Python (Pandas + Matplotlib)** a partir dessas consultas.  
-- Publicar dashboards baseados nos dados obtidos via SQL.  
-- Automatizar as consultas com scripts Python.  
-
----
-
 ## 👩‍💻 Autor
 
 **Amanda Silva**  

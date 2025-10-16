@@ -29,3 +29,9 @@ O objetivo é aplicar consultas SQL analíticas e criar métricas de negócio re
    ```sql
    \i projeto_bi.sql
 
+<img width="498" height="278" alt="image" src="https://github.com/user-attachments/assets/2c1a28dc-105b-4e04-bb6e-850d381c3204" />
+
+
+
+
+
